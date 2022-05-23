@@ -16,4 +16,4 @@ Also has multi language feature:
 https://user-images.githubusercontent.com/52853286/169754825-e14792f3-48c3-440c-a017-ca567d105217.mp4
 
 
-![Screenshot (67)](https://user-images.githubusercontent.com/45869380/168313229-59528981-7ae1-4a36-9fb3-1f16c059dd56.png)
+
